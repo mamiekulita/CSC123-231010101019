@@ -1,0 +1,27 @@
+Define Virtualization and mention two examples of virtualization service 
+
+Vitualization is the process of creating a virtual version of a physical resorce, such as server, oprating system, storage device, or network.
+
+Examples of vitualization 
+Server Vitualization
+Network Vitualization 
+Data Vitualization
+
+List five benafits of vitualization 
+
+cost saving 
+Disaster Recovery
+Scalability
+Flexibility
+Enhanced Security 
+
+Diffrentiate between Git and GitHub
+
+Git is a Version Control Sysytem that lets you manage and keep track of your so=urce code history.
+Whale GitHub is a cload-based hosting service that lets you manage Git repositories.
+
+list three benafits of the Git Version Control System 
+
+Git is very fast
+Git is more reliable 
+Git is a Collaborative 
