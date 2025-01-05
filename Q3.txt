@@ -1,0 +1,22 @@
+Define the term 'Karnel' and explain its function 
+
+The kernel is a Computer program that acts as the core of an operating system (OS) and controls the Hardware's major Functions.
+
+memory managment
+process managment 
+files system managament 
+Device Control 
+Networking 
+Inter-process Communication 
+
+the function of karnel its provide basic low-lavel operations surch as scheduling threads or routing hardware interrupts.
+another functions its the heart of the operating system and all tasks it performs must be fast and simple.
+
+Write short note on open-source kernels and describe their features. 
+
+open source kernals is an open software which the sorce codes is also available along with the software.
+
+metion two benafits of open-source kernels 
+
+Customization 
+Collaboration
