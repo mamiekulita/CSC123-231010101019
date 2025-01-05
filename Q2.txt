@@ -1,0 +1,18 @@
+What makes a software Open Source?
+
+Sorce Code: the writing instructions that programmers use ti tell a computer how to perform a function.
+
+Access: Open source software ios available for anyone to view, change or improve 
+
+Disatribution: open source software is usually distributed at no cost
+
+Modification: Open Source software is often released under a licence that allows users to modify it, as long as they make the modified software available with its source code. 
+
+
+List Five motivation of Open_source Deverpers participation
+
+leraning 
+Skill Deverlopment
+Community Identification 
+Altruism
+Intrinsic Motivation 
